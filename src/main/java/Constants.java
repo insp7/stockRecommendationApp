@@ -1,0 +1,7 @@
+class Constants {
+	KITE_APPLICATION_ID = "STOCKAPPLICATIONID";
+	KITE_PASSWORD_ID = "STOCKPASSWORDID";
+	PIN = "PIN";
+	Constants.APPLICATION_MAILER = "samplemail@xyz.com";
+	Constants.APPLICATION_MAILER_PASSWORD = "samplePass";
+}
